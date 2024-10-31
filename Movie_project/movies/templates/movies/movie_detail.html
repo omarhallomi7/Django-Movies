@@ -1,0 +1,59 @@
+<!-- base layout included -->
+{% extends 'base_layout.html' %}
+
+<!-- Block content starts here -->
+{% block content %}
+
+<!-- first part of the page to show movie detailes -->
+<div class="movie-detail">
+    <div class="text-content">
+        <img src="{{ movie.background.url }}" alt="{{ movie.background }}" />
+        <h1>{{ movie.title }}</h1>
+        <p>{{ movie.description }}</p>
+        <div class="movie-meta">
+            <p><strong>Release Date:</strong> {{ movie.release_date }}</p>
+            <p><strong>Actors:</strong> {{ movie.actors }}</p>
+            <p><strong>Director:</strong> {{ movie.director }}</p>
+        </div>
+    </div>
+    <div class="movie-image">
+        <img src="{{ movie.poster.url }}" alt="{{ movie.title }}" />
+    </div>
+</div>
+
+<!-- if user is logged in he can submit a review -->
+{% if user.is_authenticated %}
+    <div class="review-form-container">
+        <h2>Submit Your Review</h2>
+        <form action="{% url 'movies:submit_review' movie.slug %}" method="post">
+            {% csrf_token %}
+            {{ review_form }}
+            <button type="submit" class="submit-button">Submit Review</button>
+        </form>
+    </div>
+<!-- if user is NOT logged in, login button will appear -->
+{% else %}
+    <p class="login-prompt">Please <a href="{% url 'accounts:login' %}" class="login-link">log in</a> to submit a review.</p>
+{% endif %}
+
+<!-- list of reviews ( if any ) -->
+<div class="reviews-container">
+    <h2>Reviews</h2>
+    {% for review in reviews %}
+        <div class="review-item">
+            <p class="review-author"><strong>{{ review.reviewer_name }}:</strong></p>
+            <div class="review-rating">
+                {% for star in "12345" %}
+                <span class="star {% if star|add:"0" <= review.rating %}filled{% endif %}">★</span>
+                {% endfor %}
+            </div>
+            <p class="review-text">{{ review.comment }}</p>
+            <p class="review-date">{{ review.created_at|date:"F j, Y, g:i a" }}</p>
+        </div>
+    {% empty %}
+        <p class="no-reviews">No reviews yet.</p>
+    {% endfor %}
+</div>
+
+
+{% endblock %}
