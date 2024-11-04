@@ -12,6 +12,6 @@ django.setup()
 management.call_command('migrate')
 
 # Load data from the fixture
-management.call_command('loaddata', 'db.json')
+management.call_command('loaddata', '/app/db.json')
 
 print("Database initialized successfully.")
