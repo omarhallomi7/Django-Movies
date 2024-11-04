@@ -1,0 +1,1598 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-15T13:38:18.243Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Damsel",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-15T13:46:22.539Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Damsel",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-15T13:46:45.301Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Batman",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-15T14:47:48.660Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Batman",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-15T14:48:11.363Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Damsel",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-16T11:42:12.317Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Damsel",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-16T11:42:12.317Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Batman",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-16T11:54:02.461Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "THE REVENANT",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-16T12:06:24.660Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "RUSH HOUR",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-16T13:39:28.956Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "LUCY",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-16T13:42:14.579Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "PATTON",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-16T13:47:40.829Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "THE DROP",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-16T13:50:43.819Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "DRACULA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Review of THE DROP by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Review of LUCY by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Review of DRACULA by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Review of PATTON by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Review of LUCY by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Review of LUCY by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Review of RUSH HOUR by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Review of RUSH HOUR by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Review of RUSH HOUR by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Review of RUSH HOUR by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Review of RUSH HOUR by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Review of THE REVENANT by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-09-16T14:52:23.796Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Review of THE REVENANT by ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-09-16T15:02:07.377Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Review of PATTON by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-09-16T15:02:07.377Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Review of PATTON by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-09-16T15:02:07.377Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Review of PATTON by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-09-16T15:02:07.377Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Review of PATTON by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-09-16T16:35:27.828Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-09-16T16:35:27.828Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-09-16T16:35:27.828Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-09-16T16:35:27.828Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-09-16T16:35:27.828Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Review of PATTON by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-09-21T14:07:03.699Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "AFRAID",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2024-09-21T14:10:47.491Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "TRAP",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-09-21T14:13:11.744Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "GUNNER",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-09-21T14:15:43.135Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "TWISTERS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2024-09-21T14:18:04.789Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "BAD BOYS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2024-09-21T14:23:43.557Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "MATRIX",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2024-09-21T14:29:40.407Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "AVENGERS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2024-09-21T14:31:20.970Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "AVENGERS",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Poster\", \"Background\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2024-09-21T14:35:10.968Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "TERMINATOR",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2024-09-21T14:45:53.791Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "28 WEEKS LATER",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2024-09-21T14:47:55.465Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2024-09-21T14:48:14.105Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2024-09-21T14:48:28.447Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2024-09-21T14:48:35.282Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "28 WEEKS LATER",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2024-09-21T14:48:49.736Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2024-09-21T14:48:54.380Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "28 WEEKS LATER",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2024-09-21T14:48:59.875Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "TERMINATOR",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2024-09-21T14:52:13.099Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2024-09-21T14:52:13.100Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "28 WEEKS LATER",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2024-09-21T14:53:58.925Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "I AM LEGEND",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2024-09-21T14:56:31.123Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "28 WEEKS LATER",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2024-09-21T15:07:28.063Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "THE CREATOR",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2024-09-21T15:09:44.055Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "AVATAR",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "31",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "30",
+    "object_repr": "Review of TWISTERS by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "29",
+    "object_repr": "Review of TWISTERS by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "28",
+    "object_repr": "Review of RUSH HOUR by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "27",
+    "object_repr": "Review of RUSH HOUR by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "26",
+    "object_repr": "Review of RUSH HOUR by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.928Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "25",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.929Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "24",
+    "object_repr": "Review of LUCY by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2024-09-21T17:09:53.929Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Review of THE REVENANT by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2024-09-22T13:41:51.901Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "32",
+    "object_repr": "Review of DRACULA by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2024-09-24T13:28:25.499Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "33",
+    "object_repr": "Review of TRAP by omar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add movie",
+    "content_type": 7,
+    "codename": "add_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change movie",
+    "content_type": 7,
+    "codename": "change_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete movie",
+    "content_type": 7,
+    "codename": "delete_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view movie",
+    "content_type": 7,
+    "codename": "view_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 8,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 8,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 8,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 8,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$ZlZGYqIpXeAAeDzqyEhEjb$ABTXyw41uqDW2bb81RBKVRlAshPjaS4IBg1ZbmUDHgc=",
+    "last_login": "2024-09-22T13:39:23.758Z",
+    "is_superuser": true,
+    "username": "omar",
+    "first_name": "",
+    "last_name": "",
+    "email": "omarhallomi7@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-15T13:27:21.589Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$REifNcQMmO1mFJ6SxLXGMn$oEnBcvFwTiVcMqr3shdpRcwSP+0C42RyZ/9B//H9Nk0=",
+    "last_login": "2024-09-21T17:07:36.474Z",
+    "is_superuser": false,
+    "username": "ahmad",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-15T16:11:24.104Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "movies",
+    "model": "movie"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "movies",
+    "model": "review"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "74cgo3q8ivfeebksfd13r6w47644m2jv",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1srwbg:8GuF5U_tGXsw4I1JmlV7lwPqoDxqLRYhglbU4Ob9rDs",
+    "expire_date": "2024-10-05T09:40:48.218Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "k8keujytrxon82x6x0si7yt31enuxrzd",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1sppIr:uFmW6DwWXlmJEWZdTTNhFwtsSgScg4n8AUsgkJTpWUg",
+    "expire_date": "2024-09-29T13:28:37.707Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "nokkj9ez81gj0tnjk9n4wm0r9ykd1rjl",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1sqD53:wrvCWd-gGL3JoUxtkvSWhqf-rTZH1owh52B35mq9H3o",
+    "expire_date": "2024-09-30T14:51:57.790Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "s0n8vr1r8y5naiuq8ycpdtm8atloxid0",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1ss3cA:oO08KkaHNANvZ_eELRtDQno8pzT2igTg-IJmBAFF6Y8",
+    "expire_date": "2024-10-05T17:09:46.252Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "svrvf18ilk7kbo7t3yuop4zf710ghcat",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1spuBP:B37E_-0xy2_sIXpV2sWCUFDsZt2vA525BY0wUZTzVFA",
+    "expire_date": "2024-09-29T18:41:15.964Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "z3hglnkmpp7jhg4upa0bmd9rbh536t9h",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hARyoBL9z0DGWZGqRpISrsy3l2bdKHb_977L5VwXUpau8xpYnVWRh1-t4z0kLoBvmO9NU2tLvOU9abonXY9NpbnZXf_Dgr28q29DZGNGLbeGc8RESyQRfQg4MhFOHJkpDAEJ-RpMAGY8OTyVVDAq_cH3Lk4SA:1sqY0z:tXkcvG44Pv4-keZtt5M24dnxWlPjcn8_1MelQb0JVUE",
+    "expire_date": "2024-10-01T13:13:09.531Z"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 1,
+  "fields": {
+    "poster": "posters/The-revenant2.jpg",
+    "background": "posters/The-revenant1.jpg",
+    "title": "THE REVENANT",
+    "slug": "the-revenant",
+    "description": "Leonardo DiCaprio stars in this critically acclaimed epic adventure inspired by true events from writer-director Alejandro G. Iñárritu. While on a hunting expedition in the American wilderness, Hugh Glass (DiCaprio) is attacked by a bear and left for dead. Despite unimaginable grief and betrayal by his confidant (Tom Hardy), Glass must navigate a vicious winter in a relentless pursuit to live.",
+    "director": "Alejandro González Iñárritu",
+    "actors": "Leonardo Dicaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",
+    "release_date": "2015-12-25"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 2,
+  "fields": {
+    "poster": "posters/rushhour2.jpg",
+    "background": "posters/rushHour1.jpg",
+    "title": "RUSH HOUR",
+    "slug": "rush-hour",
+    "description": "Martial arts superstar Jackie Chan and wisecracking comedian Chris Tucker are back in action! While vacationing together in Hong Kong, fast-talking Los Angeles Police Department detective Carter (Tucker) and Hong Kong Police inspector Lee (Chan) investigate when a bomb explodes in the American embassy, killing two secret agents on the trail of a ring of smugglers.",
+    "director": "Brett Ratner",
+    "actors": "Jackie Chan, Chris Tucker, John Lone, Zhang Ziyi, Roselyn Sanchez, Harris Yulin, Alan King",
+    "release_date": "2024-09-16"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 3,
+  "fields": {
+    "poster": "posters/lucy1.jpg",
+    "background": "posters/lucy2.jpg",
+    "title": "LUCY",
+    "slug": "lucy",
+    "description": "From the visionary director of La Femme Nikita and The Professional and starring Scarlett Johansson and Academy Award® winner Morgan Freeman comes an action-thriller about a woman accidentally caught in a dark deal who turns the tables on her captors. Altered by a dangerous new drug allowing her to use 100% of her brain capacity, Lucy transforms into a merciless warrior evolved beyond human logic.",
+    "director": "Luc Besson",
+    "actors": "Choi Min-sik, Morgan Freeman, Scarlett Johansson, Amr Waked",
+    "release_date": "2023-07-03"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 4,
+  "fields": {
+    "poster": "posters/patton1.jpg",
+    "background": "posters/patton2.jpg",
+    "title": "PATTON",
+    "slug": "patton",
+    "description": "This critically acclaimed, 1970 Best Picture Academy Award® Winner is a riveting portrait of one of the 20th century's greatest military geniuses. The only Allied general truly feared by the Nazis, George S. Patton (George C. Scott in a Best Actor OSCAR®-winning performance), Patton out-maneuvered Rommel in Africa, and after D-Day led his troops in an unstoppable campaign across Europe.",
+    "director": "Franklin J. Schaffner",
+    "actors": "George C. Scott, Karl Malden",
+    "release_date": "2022-10-14"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 5,
+  "fields": {
+    "poster": "posters/thedrop1.jpg",
+    "background": "posters/thedrop2.jpg",
+    "title": "THE DROP",
+    "slug": "the-drop",
+    "description": "A phenomenal cast, including Tom Hardy and James Gandolfini, lead this gritty thriller about Bartender Bob Saginowski (Hardy) and his hardened employer Uncle Marv (Gandolfini) who must choose between survival and loyalty when they find themselves caught in a robbery gone bad, and on the hook for a mob debt they can’t repay.",
+    "director": "Michaël R. Roskam",
+    "actors": "Tom Hardy, Noomi Rapace, James Gandolfini, Matthias Schoenaerts, John Ortiz",
+    "release_date": "2021-11-06"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 6,
+  "fields": {
+    "poster": "posters/dracula1.jpg",
+    "background": "posters/dracula2.jpg",
+    "title": "DRACULA",
+    "slug": "dracula",
+    "description": "Mel Brooks takes a turn at a classic horror tale. The vampires are loose, but somehow everyone's having a great time, including the undead count himself in Dracula: Dead and Loving It.",
+    "director": "Mel Brooks",
+    "actors": "Leslie Nielsen, Peter MacNicol, Steven Weber, Amy Yasbeck, Mel Brooks, Lysette Anthony, Harvey Korman, Mark Blankfield, Megan Cavanagh, Gregg Binkley, Clive Revill, Chuck McCann, Avery Schreiber, Cherie Franklin, Matthew Porretta, Anne Bancroft",
+    "release_date": "2020-06-14"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 7,
+  "fields": {
+    "poster": "posters/afraid1.jpg",
+    "background": "posters/afraid2.jpg",
+    "title": "AFRAID",
+    "slug": "AFRAID",
+    "description": "From Blumhouse, producer of M3gan and The Black Phone, comes AFRAID. Curtis (John Cho) and his family are selected to test a revolutionary new home device: a digital family assistant called AIA. Taking smart home to the next level, once the unit and all its sensors and cameras are installed in their home, AIA seems able to do it all. She learns the family's behaviors and begins to anticipate their needs. And she can make sure nothing – and no one – gets in her family’s way.",
+    "director": "Chris Weitz",
+    "actors": "John Cho, Katherine Waterston, Havana Rose Liu, Lukita Maxwell, Ashley Romans, Greg Hill, Riki Lindhome, Wyatt Lindner, Isaac Bae, Todd Waring, David Dastmalchian, Keith Carradine",
+    "release_date": "2024-08-30"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 8,
+  "fields": {
+    "poster": "posters/trap1.jpg",
+    "background": "posters/trap2.jpg",
+    "title": "TRAP",
+    "slug": "trap",
+    "description": "A father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.",
+    "director": "M. Night Shyamalan",
+    "actors": "Josh Hartnett, Ariel Donoghue, Saleka Shyamalan, Hayley Mills, Alison Pill",
+    "release_date": "2024-08-02"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 9,
+  "fields": {
+    "poster": "posters/gunner1.jpg",
+    "background": "posters/gunner2.jpg",
+    "title": "GUNNER",
+    "slug": "gunner",
+    "description": "War veteran Colonel Lee Gunner takes his two sons on a camping trip with their uncle Jon, to reconnect with them after being at the battle front for so long. The trip goes awry when Jon stumbles over a tripwire and sets off an explosion, alerting a gang of violent bikers in the midst of a massive drug operation. Not anticipating Gunner's elite combat skills, the gang members are taken out one by one. The boys try to go for help, but end up right in the arms of Dobbs, the son of kingpin Kendric Ryker who runs the organization from prison. With no one but himself to turn to, an enraged Gunner wreaks havoc to rescue his two sons, until he gets to the top and confronts Ryker. You don't cross Gunner.",
+    "director": "Dimitri Logothetis",
+    "actors": "Luke Hemsworth, Mykel Shannon Jenkins, Yulia Klass, Grant Feely, Connor DeWolfe, Morgan Freeman",
+    "release_date": "2024-08-16"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 10,
+  "fields": {
+    "poster": "posters/twisters1.jpg",
+    "background": "posters/twisters2.jpg",
+    "title": "TWISTERS",
+    "slug": "twisters",
+    "description": "Twisters brings back the blockbuster disaster epic with a whirlwind of heart-stopping action and exhilarating thrills. Ever since a devastating tornado encounter, Kate (Daisy Edgar-Jones) gave up chasing storms across the Oklahoma prairie to safely study them on screens in New York City. Lured back to the field by her friend Javi (Anthony Ramos) and a once-in-a-lifetime scientific opportunity, Kate crosses paths with Tyler (Glen Powell), a charming daredevil and self-proclaimed tornado wrangler whose thirst for tornado-tracking adventures made him a social media sensation. As storm season intensifies with terrifying phenomena unlike anything seen before, Kate and Tyler realize they may need to work together if they are to have any chance of taming, and surviving, an unprecedented outbreak of destructive tornados.",
+    "director": "Lee Isaac Chung",
+    "actors": "Daisy Edgar-Jones, Glen Powell, Anthony Ramos, Brandon Perea, Maura Tierney, Sasha Lane",
+    "release_date": "2024-07-19"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 11,
+  "fields": {
+    "poster": "posters/badboys1.jpg",
+    "background": "posters/badboys2.jpg",
+    "title": "BAD BOYS",
+    "slug": "bad-boys",
+    "description": "The world's favorite Bad Boys are back with their iconic mix of edge-of-your seat action and outrageous comedy but this time with a twist: Miami's finest are now on the run.",
+    "director": "Adil El Arbi, Bilall Fallah",
+    "actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig, Paola Nuñez, Eric Dane, Ioan Gruffudd, Melanie Liburd, Tasha Smith, Tiffany Haddish, Joe Pantoliano, Jacob Scipio, Rhea Seehorn, Khaled (DJ Khaled) Khaled, John Salley",
+    "release_date": "2024-06-07"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 12,
+  "fields": {
+    "poster": "posters/matrix1.jpg",
+    "background": "posters/matrix2.jpg",
+    "title": "MATRIX",
+    "slug": "matrix",
+    "description": "From visionary filmmaker Lana Wachowski comes “The Matrix Resurrections,” the long-awaited fourth film in the groundbreaking franchise that redefined a genre. The new film reunites original stars Keanu Reeves and Carrie-Anne Moss in the iconic roles they made famous, Neo and Trinity.",
+    "director": "Lana Wachowski",
+    "actors": "Keanu Reeves, Carrie‐Anne Moss, Yahya Abdul Mateen II, Jessica Henwick, Jonathan Groff, Neil Patrick Harris, Christina Ricci, Eréndira Ibarra, Toby Onwumere, Max Riemelt, Brian J. Smith, Jada Pinkett Smith",
+    "release_date": "2021-12-22"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 13,
+  "fields": {
+    "poster": "posters/avengers1.jpg",
+    "background": "posters/avengers2.jpg",
+    "title": "AVENGERS",
+    "slug": "avengers",
+    "description": "Marvel Studios unleashes the next global phenomenon in the Marvel Cinematic Universe – Marvel’s Avengers: Age of Ultron. Good intentions wreak havoc when Tony Stark (Robert Downey Jr.) unwittingly creates Ultron (James Spader), a terrifying A.I. monster who vows to achieve “world peace” via mass extinction. Now, Iron Man, Captain America (Chris Evans), Thor (Chris Hemsworth) and The Hulk (Mark Ruffalo) – alongside Black Widow (Scarlett Johansson), Hawkeye (Jeremy Renner) and Nick Fury (Samuel L. Jackson) – must reassemble to defeat Ultron and save mankind...if they can! This action-packed adventure is a mind-blowing blast!",
+    "director": "Joss Whedon",
+    "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie",
+    "release_date": "2015-05-01"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 14,
+  "fields": {
+    "poster": "posters/terminator1.jpg",
+    "background": "posters/terminator2.jpg",
+    "title": "TERMINATOR",
+    "slug": "terminator",
+    "description": "Terminator Salvation (Director's Cut) contains explosive additional footage not shown in theaters. The year is 2018. An army of Terminators roams the post-apocalyptic landscape, killing or collecting humans. But small groups of survivors have organized into a Resistance, hiding in underground bunkers and striking when they can. Controlling the Terminators is the artificial intelligence network Skynet, which became self-aware 14 years earlier and turned on its creators, unleashing nuclear annihilation. The world is on the brink of the future that John Connor (Christian Bale) has been warned about all his life. But something totally new has shaken his belief that humanity stands a chance of winning this war: the appearance of Marcus Wright (Sam Worthington), a stranger from the past. As Skynet adapts new strategies to end the Resistance forever, Connor and Marcus must find common ground to take a stand against the onslaught--to infiltrate Skynet and meet the enemy head-on.",
+    "director": "McG",
+    "actors": "Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood, Bryce Dallas Howard, Common, Jane Alexander, Helena Bonham Carter, Michael Ironside, Jadagrace Berry",
+    "release_date": "2009-12-31"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 18,
+  "fields": {
+    "poster": "posters/iamlegend1.jpg",
+    "background": "posters/iamlegend2.jpg",
+    "title": "I AM LEGEND",
+    "slug": "i-am-legend",
+    "description": "Will Smith stars in a sci-fi thriller from the director of Constantine--I Am Legend. After a biological war, Robert Neville is the last healthy human living on Earth, but he is not alone. The other humans have become vampire-like mutants, and all are hungry for Neville's blood. By day, he is the hunter, stalking the sleeping undead through the abandoned ruins of civilization. By night, he barricades himself in his home and prays for the dawn.",
+    "director": "Francis Lawrence",
+    "actors": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson, Willow Smith",
+    "release_date": "2007-12-14"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 19,
+  "fields": {
+    "poster": "posters/28weekslater1_HXNc8j2.jpg",
+    "background": "posters/28weekslater2_4pBQhbC.jpg",
+    "title": "28 WEEKS LATER",
+    "slug": "28-weeks-later",
+    "description": "This sequel to the original horror-thriller picks up six months after the military has declared Britain safe from the rage virus, but a terrifying new nightmare soon begins.",
+    "director": "Juan Carlos Fresnadillo",
+    "actors": "Robert Carlyle, Rose Byrne, Jeremy Renner, Harold Perrineau, Catherine McCormack, Mackintosh Muggleton, Imogen Poots, Idris Elba",
+    "release_date": "2007-05-11"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 20,
+  "fields": {
+    "poster": "posters/thecreator1.jpg",
+    "background": "posters/thecreator2.jpg",
+    "title": "THE CREATOR",
+    "slug": "the-creator",
+    "description": "Amidst a future war between the human race and the forces of artificial intelligence, Joshua (John David Washington), a hardened ex-special forces agent grieving the disappearance of his wife (Gemma Chan), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war — and humankind. Joshua and his team of elite operatives journey across enemy lines into the dark heart of AI-occupied territory, only to discover the world-ending weapon he’s been instructed to destroy is an AI in the form of a young child, in this epic sci-fi action thriller directed by Gareth Edwards (Rogue One: A Star Wars Story) from a screenplay by Edwards and Chris Weitz.",
+    "director": "Gareth Edwards",
+    "actors": "John David Washington, Gemma Chan, Ken Watanabe, Sturgill Simpson, Amar Chadha-Patel, Amar Chadha-Patel, Amar Chadha-Patel, Ralph Ineson, Veronica Ngo, Marc Menchaca, Madeleine Yuna Voyles, Allison Janney, Michael Esper, Robbie Tann, Ian Verdun, Daniel Ray Rodriguez, Rad Pereira, Syd Skidmore, Karen Aldridge, Teerawat Mulvilai, Leanna Chea, Sahatchai Chumrum",
+    "release_date": "2023-09-23"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 21,
+  "fields": {
+    "poster": "posters/avatar1.jpg",
+    "background": "posters/avatar2.jpg",
+    "title": "AVATAR",
+    "slug": "avatar",
+    "description": "Avatar takes us to the amazing world of Pandora, where a man embarks on an epic journey of adventure and love, ultimately fighting to save the unique place he has learned to call home. James Cameron, the Oscar®-winning director of Titanic, delivers an immersive cinematic experience, where revolutionary technology meets engaging characters in a timeless, emotional story.",
+    "director": "James Cameron",
+    "actors": "Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez, Sigourney Weaver, Giovanni Ribisi",
+    "release_date": "2009-12-18"
+  }
+},
+{
+  "model": "movies.review",
+  "pk": 34,
+  "fields": {
+    "movie": 1,
+    "reviewer_name": "omar",
+    "rating": 5,
+    "comment": "wow",
+    "created_at": "2024-09-25T11:09:53.291Z"
+  }
+}
+]

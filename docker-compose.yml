@@ -23,17 +23,17 @@ services:
   
   django:
     container_name: django-container
-    image: django:latest # or specify a custom Dockerfile if you have one
+    build:
+      context: .  # The directory where your Dockerfile is located
+      dockerfile: Dockerfile 
     restart: always
     depends_on:
-      - db
+      db:
+        condition: service_healthy
     volumes:
       - .:/app
-    working_dir: /app/Movie_project
     command: python manage.py runserver 0.0.0.0:8000
     env_file:
       - .env
-    environment:
-      - DATABASE_URL=mysql://${SQL_USER}:${SQL_PASSWORD}@db:3306/${SQL_DATABASE}
     ports:
       - 8000:8000
