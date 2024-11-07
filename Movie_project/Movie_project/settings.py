@@ -12,6 +12,7 @@ STATICFILES_DIRS = (os.path.join(str(BASE_DIR), 'assets'),)
 
 
 
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
@@ -112,7 +113,7 @@ TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
-USE_TZ = True
+USE_TZ = False
 
 APPEND_SLASH=False
 # Static files (CSS, JavaScript, Images)
