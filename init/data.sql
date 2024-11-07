@@ -251,7 +251,7 @@ DROP TABLE IF EXISTS `django_session`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `django_session` (
   `session_key` varchar(32) DEFAULT NULL,
-  `session_datamovies_movie` varchar(226) DEFAULT NULL,
+  `session_data` varchar(226) DEFAULT NULL,
   `expire_date` DATETIME DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -273,7 +273,7 @@ UNLOCK TABLES;
 DROP TABLE IF EXISTS `movies_movie`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `` (
+CREATE TABLE `movies_movie` (
   `id` tinyint(4) DEFAULT NULL,
   `title` varchar(14) DEFAULT NULL,
   `slug` varchar(14) DEFAULT NULL,
@@ -307,7 +307,7 @@ CREATE TABLE `movies_review` (
   `id` tinyint(4) DEFAULT NULL,
   `reviewer_name` varchar(4) DEFAULT NULL,
   `rating` tinyint(4) DEFAULT NULL,
-  `comment` varchar(3) DEFAULT NULL,
+  `comment` text,
   `created_at` DATETIME DEFAULT NULL,
   `movie_id` tinyint(4) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
