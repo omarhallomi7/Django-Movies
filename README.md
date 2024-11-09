@@ -6,16 +6,14 @@ The project allows users to browse movies, submit reviews, and rate movies.
 
 This guide will show you how to set up and run the project using Docker.
 
-1. Clone this git repo:
+1. open CMD 
+
+2. Clone the repo:
 
 git clone https://github.com/omarhallomi7/Django-Movies
 
-2. build a docker image using the Dockerfile in root directory of this repo :
+3. docker compose for running containers  :
 
-docker build -t image_name .
-
-3. start the container :
-
-docker run -p 8000:8000 -d image_name
+docker-compose up --build
 
 4. go to browser localhost:8000
